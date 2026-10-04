@@ -70,7 +70,7 @@ The source code is publicly available on GitHub, and the latest version of the a
 
 Please do not disclose suspected security vulnerabilities through public GitHub Issues.
 
-See the HexSpindle security policy for instructions on reporting vulnerabilities responsibly.
+See the [HexSpindle security policy](https://github.com/HexSpindle/.github/blob/main/SECURITY.md) for instructions on reporting vulnerabilities responsibly.
 
 ## Contributing
 
