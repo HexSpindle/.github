@@ -46,13 +46,19 @@ HexSpindle aims to provide a workbench that is:
 
 ## Project Status
 
-HexSpindle is currently under active development.
+HexSpindle is under active development.
 
-The main source repository, documentation, contribution guidelines, and project website will be published under this organization.
+The source code is publicly available on GitHub, and the latest version of the application can be used directly in the browser.
+
+**Live application:** [hexspindle.github.io](https://hexspindle.github.io/)
 
 ## Repositories
 
-The official HexSpindle repositories will be maintained here as they are released.
+| Repository | Purpose |
+| --- | --- |
+| [HexSpindle](https://github.com/HexSpindle/HexSpindle) | Main application and source code |
+| [.github](https://github.com/HexSpindle/.github) | Organization profile and shared GitHub configuration |
+| [HexSpindle.github.io](https://github.com/HexSpindle/HexSpindle.github.io) | Automated deployment for the live web application |
 
 | Repository | Purpose |
 | --- | --- |
@@ -64,13 +70,13 @@ The official HexSpindle repositories will be maintained here as they are release
 
 Please do not disclose suspected security vulnerabilities through public GitHub Issues.
 
-A dedicated security policy and responsible disclosure process will be provided with the main HexSpindle repository.
+See the HexSpindle security policy for instructions on reporting vulnerabilities responsibly.
 
 ## Contributing
 
-Contribution guidelines will be published alongside the main project repository.
+Bug reports, feature requests, documentation improvements, and code contributions are welcome.
 
-Bug reports, feature requests, documentation improvements, and code contributions will be welcome once the project repositories are available.
+Please see the [HexSpindle source repository](https://github.com/HexSpindle/HexSpindle) for the application source, issues, and pull requests.
 
 ---
 
