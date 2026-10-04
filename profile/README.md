@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hexspindle.png" alt="HexSpindle" width="520">
+  <img src="./assets/HexSpindle.png" alt="HexSpindle" width="520">
 </p>
 
 <div align="center">
