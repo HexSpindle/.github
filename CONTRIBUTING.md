@@ -1,4 +1,3 @@
-```markdown
 # Contributing to HexSpindle
 
 Thank you for your interest in contributing to HexSpindle.
@@ -147,4 +146,3 @@ Please describe the use case as well as the requested functionality.
 ## License
 
 By contributing to HexSpindle, you agree that your contributions will be licensed under the same license as the project.
-```
