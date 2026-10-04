@@ -60,12 +60,6 @@ The source code is publicly available on GitHub, and the latest version of the a
 | [.github](https://github.com/HexSpindle/.github) | Organization profile and shared GitHub configuration |
 | [HexSpindle.github.io](https://github.com/HexSpindle/HexSpindle.github.io) | Automated deployment for the live web application |
 
-| Repository | Purpose |
-| --- | --- |
-| `HexSpindle` | Main application and source code |
-| `.github` | Organization profile and shared GitHub configuration |
-| `HexSpindle.github.io` | Project website and documentation |
-
 ## Security
 
 Please do not disclose suspected security vulnerabilities through public GitHub Issues.
