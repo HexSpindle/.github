@@ -4,8 +4,6 @@
 
 <div align="center">
 
-# HexSpindle
-
 ### Browser-based data transformation and analysis workbench
 
 **Decode · Encode · Transform · Analyze · Inspect**
