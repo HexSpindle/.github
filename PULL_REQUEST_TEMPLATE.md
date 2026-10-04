@@ -39,7 +39,7 @@ If this pull request changes the user interface:
 - [ ] I checked for obvious layout or usability regressions.
 - [ ] Screenshots are included below when useful.
 
-If this pull request does not change operation files, these items may be left unchecked.
+If this pull request does not change the user interface, these items may be left unchecked.
 
 ## Checklist
 
